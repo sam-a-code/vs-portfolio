@@ -14,5 +14,10 @@ code {
     monospace;
 }
 
-
+.navbar {
+  padding-left: 3%;
+  padding-right: 3%;
+  color: white;
+  text-decoration: none;
+}
 

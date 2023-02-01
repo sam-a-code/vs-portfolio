@@ -3,6 +3,7 @@ function Home() {
     return (
         <>
             <Bio />
+            <h1>homepage</h1>
         </>
 
     );

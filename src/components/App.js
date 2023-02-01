@@ -9,14 +9,14 @@ import { Routes, Route } from "react-router-dom"
 function App() {
 
   return (
-    <div>
-      {/* <Navbar/> */}
-      {/* <Routes>
+    <div className='App'>
+      <Navbar/>
+      <Routes>
           <Route path="" element={<Home />} />
           <Route path="resume" element={<Resume />} />
           <Route path="portfolio" element={<Portfolio />} />
-        </Routes> */}
-        {/* <Footer/> */}
+        </Routes>
+        <Footer/>
     </div>
   );
 }
