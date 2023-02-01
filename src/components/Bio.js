@@ -1,6 +1,7 @@
 function Bio() {
     return (
         <>
+        <h4>bio</h4>
         </>
 
     );

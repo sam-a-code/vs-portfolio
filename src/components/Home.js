@@ -1,10 +1,10 @@
 import Bio from './Bio'
 function Home() {
     return (
-        <>
-            <Bio />
-            <h1>homepage</h1>
-        </>
+        <div className='home'>
+            <h1>Victoria Moreno</h1>
+            <h2>VFX Producer / Editor</h2>
+        </div>
 
     );
   }
